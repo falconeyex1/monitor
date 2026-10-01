@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "apkUrl": "https://github.com/falconeyex1/monitor/releases/download/sdauto-v7/sdauto.apk",
+  "versionCode": 8,
+  "apkUrl": "https://github.com/falconeyex1/monitor/releases/download/sdauto-v8/sdauto.apk",
   "changelog": "",
-  "noticeId": 0,
-  "noticeText": ""
+  "noticeId": 1,
+  "noticeText": "조회전,출발 토착거리 등 숨기기"
 }
