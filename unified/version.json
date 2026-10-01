@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "apkUrl": "https://github.com/falconeyex1/monitor/releases/download/unified-v5/unified.apk",
+  "versionCode": 6,
+  "apkUrl": "https://github.com/falconeyex1/monitor/releases/download/unified-v6/unified.apk",
   "changelog": "",
-  "noticeId": 0,
-  "noticeText": ""
+  "noticeId": 1,
+  "noticeText": "타기사배차 알림패치, 워밍업패치"
 }
