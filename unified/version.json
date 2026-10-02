@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "apkUrl": "https://github.com/falconeyex1/monitor/releases/download/unified-v11/unified.apk",
+  "versionCode": 12,
+  "apkUrl": "https://github.com/falconeyex1/monitor/releases/download/unified-v12/unified.apk",
   "changelog": "",
   "noticeId": 2,
   "noticeText": "음성인식 반경 위치 테스트"
