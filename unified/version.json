@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "apkUrl": "https://github.com/falconeyex1/monitor/releases/download/unified-v13/unified.apk",
+  "versionCode": 14,
+  "apkUrl": "https://github.com/falconeyex1/monitor/releases/download/unified-v14/unified.apk",
   "changelog": "",
-  "noticeId": 3,
-  "noticeText": "몇번째 오더 도착지,로 변경, 몇킬로로 반경변경 음성명령패치"
+  "noticeId": 4,
+  "noticeText": "몇번째 도착위치로 변경해, 몇킬로로 바꿔. 대답은 ok,응,좋아, 취소, 안도"
 }
