@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "apkUrl": "https://github.com/falconeyex1/monitor/releases/download/unified-v6/unified.apk",
+  "versionCode": 7,
+  "apkUrl": "https://github.com/falconeyex1/monitor/releases/download/unified-v7/unified.apk",
   "changelog": "",
-  "noticeId": 1,
-  "noticeText": "타기사배차 알림패치, 워밍업패치"
+  "noticeId": 2,
+  "noticeText": "음성인식 반경 위치 테스트"
 }
