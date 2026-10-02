@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "apkUrl": "https://github.com/falconeyex1/monitor/releases/download/unified-v19/unified.apk",
+  "versionCode": 20,
+  "apkUrl": "https://github.com/falconeyex1/monitor/releases/download/unified-v20/unified.apk",
   "changelog": "",
   "noticeId": 4,
   "noticeText": "몇번째 도착위치로 변경해, 몇킬로로 바꿔. 대답은 ok,응,좋아, 취소, 안도"
