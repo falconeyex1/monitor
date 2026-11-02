@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "apkUrl": "https://github.com/falconeyex1/monitor/releases/download/om-v6/om.apk",
+  "versionCode": 7,
+  "apkUrl": "https://github.com/falconeyex1/monitor/releases/download/om-v7/om.apk",
   "changelog": "",
-  "noticeId": 0,
-  "noticeText": ""
+  "noticeId": 1,
+  "noticeText": "상세로그 업데이트"
 }
